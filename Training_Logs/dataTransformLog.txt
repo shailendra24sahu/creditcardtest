@@ -1,0 +1,7 @@
+2023-04-22/15:41:53		 creditCardFraud_28011967_120217.csv: Quotes added successfully!!
+2023-04-22/15:41:53		 creditCardFraud_28011970_120220.csv: Quotes added successfully!!
+2023-04-22/15:41:53		 creditCardFraud_28011982_120232.csv: Quotes added successfully!!
+2023-04-22/15:41:53		 creditCardFraud_28011983_120233.csv: Quotes added successfully!!
+2023-04-22/15:41:54		 creditCardFraud_28011984_120234.csv: Quotes added successfully!!
+2023-04-22/15:41:54		 creditCardFraud_28011985_120235.csv: Quotes added successfully!!
+2023-04-22/15:41:54		 creditCardFraud_28011986_120236.csv: Quotes added successfully!!

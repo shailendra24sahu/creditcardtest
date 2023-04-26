@@ -1,0 +1,29 @@
+2023-04-22/16:06:32		Start of Validation on files for prediction!!
+2023-04-22/16:06:50		Start of Validation on files for prediction!!
+2023-04-22/16:06:50		Raw Data Validation Complete!!
+2023-04-22/16:06:50		Starting Data Transforamtion!!
+2023-04-22/16:06:50		DataTransformation Completed!!!
+2023-04-22/16:06:50		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-04-22/16:06:53		Table creation Completed!!
+2023-04-22/16:06:53		Insertion of Data into Table started!!!!
+2023-04-22/16:10:45		Insertion in Table completed!!!
+2023-04-22/16:10:45		Deleting Good Data Folder!!!
+2023-04-22/16:10:45		Good_Data folder deleted!!!
+2023-04-22/16:10:45		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-04-22/16:10:45		Bad files moved to archive!! Bad folder Deleted!!
+2023-04-22/16:10:45		Validation Operation completed!!
+2023-04-22/16:10:45		Extracting csv file from table
+2023-04-22/16:10:45		Start of Prediction
+2023-04-22/16:10:45		Entered the get_data method of the Data_Getter class
+2023-04-22/16:10:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-04-22/16:10:45		Entered the is_null_present method of the Preprocessor class
+2023-04-22/16:10:45		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-04-22/16:10:45		Entered the scale_numerical_columns method of the Preprocessor class
+2023-04-22/16:10:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2023-04-22/16:10:45		Entered the load_model method of the File_Operation class
+2023-04-22/16:10:45		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-04-22/16:10:46		Entered the find_correct_model_file method of the File_Operation class
+2023-04-22/16:10:46		Exited the find_correct_model_file method of the Model_Finder class.
+2023-04-22/16:10:46		Entered the load_model method of the File_Operation class
+2023-04-22/16:10:46		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2023-04-22/16:10:46		End of Prediction
